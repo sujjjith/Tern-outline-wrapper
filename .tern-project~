@@ -1,0 +1,18 @@
+
+{
+"libs":[
+"browser",
+"jquery"
+],
+"loadEagerly": [
+	"/home/sujithk/workspace/node-browserify/index.js",
+	"/home/sujithk/workspace/node-browserify/bin/args.js",
+	"/home/sujithk/workspace/node-browserify/bin/cmd.js",
+	"/home/sujithk/workspace/node-browserify/lib/builtins.js"
+],
+"plugins": {
+"node" : {},
+"commonjs": {},
+"outline": {}
+}
+}
